@@ -1,7 +1,7 @@
 Test case for resolving target entities in form types
 =====================================================
 
-To help with this test case, please do the following:
+To run this test case, please do the following:
 
 ### 1. Clone this repository
 
@@ -62,5 +62,3 @@ php app/console doctrine:fixtures:load
 ```
 
 ### 8. Call up the project root URL in your browser and try adding an Audit
-
-### 9. ...?
