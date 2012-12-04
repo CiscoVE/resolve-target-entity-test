@@ -19,6 +19,7 @@ class AuditType extends AbstractType
            },
            'label' => 'Target'
        ));
+       $builder->add( 'comment' );
    }
 
    public function getName()

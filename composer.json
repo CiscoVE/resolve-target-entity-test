@@ -23,6 +23,7 @@
         "jms/di-extra-bundle": "1.1.*",
         "kriswallsmith/assetic": "1.1.*@dev",
         
+        "doctrine/doctrine-fixtures-bundle": "dev-master",
         "cisco/resolve-target-entity-test-bundle": "dev-master"
     },
     "scripts": {

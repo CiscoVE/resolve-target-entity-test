@@ -1,0 +1,2 @@
+parameters:
+    cisco.formtype.audit.class: Cisco\AppBundle\Form\Type\AuditType

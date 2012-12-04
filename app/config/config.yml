@@ -49,6 +49,8 @@ doctrine:
     orm:
         auto_generate_proxy_classes: "%kernel.debug%"
         auto_mapping: true
+        resolve_target_entities:
+            Cisco\ResolveTargetEntityTestBundle\Model\TargetInterface: Cisco\AppBundle\Entity\Target
 
 # Swiftmailer Configuration
 swiftmailer:
